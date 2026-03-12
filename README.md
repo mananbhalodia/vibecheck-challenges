@@ -8,5 +8,6 @@ Monorepo of challenge starters. Each challenge lives in a subfolder under `chall
 | `challenges/bezier-curve-editor` | Interactive Bézier Curve Editor (SVG, easing, CSS export) |
 | `challenges/generative-art-canvas` | Generative Art Canvas (Flow Field, Lissajous, Recursive Tree) |
 | `challenges/designer-profile-card` | Designer Profile Card (Glassmorphic card, look-a-like) |
+| `challenges/matte-theme-toggle` | Matte Theme Toggle (look-a-like light/dark switch) |
 
 - **Run a challenge locally:** `cd challenges/<slug>` then `npm install && npm run dev` and `npm test`.
